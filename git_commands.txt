@@ -1,0 +1,29 @@
+ 
+   8         ls
+   9         dir
+  10         rm testing.py
+  11         ls
+  12         git init
+  13         dir
+  14         clear
+  15         git status
+  19         git add testing.py
+  20         git status
+  21         git add .
+  22         git status
+  23         git commit -m "added testing file"
+  24         rm testing.py
+  25         ls
+  26         git status
+  27         git restore testing.py
+  28         git status
+  29         dir
+  30         ls
+  31         clear
+  44         git remote add origin https://github.com/sourabh-devops07/github-project.git
+  45         git remote -v
+  46         git remote set-url origin https://token path @github.com/sourabh-devops07/… 
+  47         git remote -v
+  48         git push origin master
+  49         git branch
+  50         git branch -a
