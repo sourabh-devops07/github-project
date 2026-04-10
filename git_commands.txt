@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  
    8         ls
    9         dir
@@ -27,3 +28,6 @@
   48         git push origin master
   49         git branch
   50         git branch -a
+=======
+This is new changes
+>>>>>>> 71019e98706e64cfa01b9be3b04148a7d987bcc2
